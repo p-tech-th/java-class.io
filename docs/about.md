@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Usefull Links
-permalink: /usefull-link/
+permalink: usefull-link
 nav_order: 3
 ---
 

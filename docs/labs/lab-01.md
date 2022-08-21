@@ -4,7 +4,7 @@
 
 title: Labs 01
 layout: default
-permalink: /labs/01-hello-world/
+permalink: labs/01-hello-world
 parent: Labs
 ---
 Lab Hello world Labs 01
