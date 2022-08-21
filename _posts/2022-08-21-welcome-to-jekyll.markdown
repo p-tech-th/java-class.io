@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Java Class 101"
 date:   2022-08-21 11:05:55 +0700
 categories: jekyll update
 ---
