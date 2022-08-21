@@ -22,7 +22,6 @@ title: Java introduction class
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   this is the main site for java introduction class
-  นี่เป็นเว็บไซค์ หลักของ คลาส
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb

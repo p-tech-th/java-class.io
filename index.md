@@ -5,6 +5,7 @@
 title: Home
 layout: home
 nav_order: 1
+permalink: /
 ---
 Hello this is the site for Java introduction class for 2022
 สวัสดีนี่คือเว็บไซต์หลักของ class
