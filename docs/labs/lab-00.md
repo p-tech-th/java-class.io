@@ -16,7 +16,7 @@ parent: Labs
    ![Java logo](https://p-tech-th.github.io/java-class.io/assets/img/lab00-01.png)
 2. กด Download แล้วรอซักครู่ จะมี application ให้กด save ลงเครื่องจากนั้นรอจนดาวน์โหลดสำเร็จ
 
-   ![Java logo](assets/img/lab00-02.png)
+   ![Java logo](../../assets/img/lab00-02.png)
 3. ทำการกดติดตั้ง application โดยจะมีตัวช่วยติดตั้งขึ้นมาให้เลือกversion ที่จะติดตั้งให้เลือก Eclipse IDE for Java Developers
 
    ![Java logo](assets/img/lab00-03.png)
