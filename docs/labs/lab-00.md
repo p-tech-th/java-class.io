@@ -13,7 +13,7 @@ parent: Labs
 แต่ใน lab นี้จะเน้นไปที่ Eclipse เพราะใช้งานได้ฟรี และใช้ง่ายง่าย
 1. Download Eclipse IDE ที่ [https://www.eclipse.org/downloads](https://www.eclipse.org/downloads)
 
-   ![Java logo](images/lab00-01.png)
+   ![Java logo](./images/lab00-01.png)
 2. กด Download แล้วรอซักครู่ จะมี application ให้กด save ลงเครื่องจากนั้นรอจนดาวน์โหลดสำเร็จ
 
    ![Java logo](images/lab00-02.png)
