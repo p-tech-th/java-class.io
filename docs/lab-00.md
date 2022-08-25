@@ -7,10 +7,10 @@ layout: default
 permalink: labs/00-set-up-env
 parent: Labs
 ---
-## Lab 00 การเตรียมenvironement เพื่อการพัฒนา Java ด้วย eclipse
+## Lab 00 การเตรียมenvironement เพื่อการพัฒนา Java ด้วย Eclipse
 
 ในการเตรียมสภาพแวดล้อมเพื่อการพัฒนาapplication ภาษา java นั้นได้มีเครื่องมือมากมายในการพัฒนา
-แต่ใน lab นี้จะเน้นไปที่ Eclipse เพราะใช้งานได้ฟรี และใช้ง่ายง่าย
+แต่ใน lab นี้จะเน้นไปที่ Eclipse เพราะใช้งานได้ฟรี และใช้ง่าย
 1. Download Eclipse IDE ที่ [https://www.eclipse.org/downloads](https://www.eclipse.org/downloads)
 
    ![Java logo](https://p-tech-th.github.io/java-class.io/assets/img/lab00-01.png)
