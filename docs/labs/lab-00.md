@@ -33,5 +33,5 @@ parent: Labs
 
 7. รอจนปรากฏหน้าต่าง Eclipse IDE
 
-   ![Java logo](./../../images/lab00-07.png)
+   ![Java logo](images/lab00-07.png)
 
