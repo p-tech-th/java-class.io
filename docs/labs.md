@@ -8,4 +8,4 @@ nav_order: 2
 has_children: true
 permaklink: labs
 ---
- parent
+ สำหรับ lab สามารถเลือกทำตามได้ตามแต่ละความสนใจ

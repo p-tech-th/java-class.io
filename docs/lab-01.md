@@ -2,9 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: Lab01
+title: Lab-01 hello world console
 layout: default
-permalink: labs/01-hello-world
+permalink: labs/01-hello-world-console
 parent: Labs
 ---
 ## Lab 01 Hello World
