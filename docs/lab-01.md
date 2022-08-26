@@ -35,7 +35,7 @@ public static void main(String[] args) {
   System.out.println("Hello World!");
 }
 ```
-   [![Java logo](../assets/img/lab01-07.png)](../assets/img/lab01-07.png)
+   [![Java logo](../assets/img/lab01-07.png)](../assets/img/lab01-08.png)
 4. กดปุ่ม run เพื่อทำการ compile code และ run โดยจะมีข้อความใน medthod println ที่เราได้ใส่เข้าไปว่า "Hello World!"
 
    [![Java logo](../assets/img/lab01-08.png)](../assets/img/lab01-08.png)
