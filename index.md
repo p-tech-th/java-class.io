@@ -20,3 +20,6 @@ Java นั้นถูกนำไปใช้ในหลายๆรูปแ
 - application สำหรับผู้ใช้งานทั่วไป เช่น โปรแกรมที่ใช้งานโดยคอมพิวเตอร์ส่วนบุคคล เช่น โปรแกรมเอกสาร ต่างๆ
 
 ![Java logo](assets/img/James_Gosling_2008.jpeg){:width="50%"}
+
+slide
+![P-tech-slide](assets/PTech.pdf)
