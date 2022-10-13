@@ -10,7 +10,7 @@ permalink: /
 
 ภาษา Java คืออะไร ภาษา Java เป็นภาษาโปรแกรมภาษาหนึ่งที่มีถูกพัฒนาโดย James Gosling
 
-![James Gosling](assets/img/Java_programming_language_logo.svg){:width="50%"}
+![James Gosling](assets/img/Java_programming_language_logo.svg){:width="25%"}
 
 มีโลโก้เป็นรูป แก้วกาแฟ ปัจจุบันได้ถูกนำมาใช้งานในอย่างแพร่หลายในการพัฒนาแอพพลิเคชั่นเพื่อธุรกิจและผู้ใช้งานทั่วไป
 Java นั้นถูกนำไปใช้ในหลายๆรูปแบบ
@@ -19,9 +19,9 @@ Java นั้นถูกนำไปใช้ในหลายๆรูปแ
 - application สำหรับโทรศัพท์ เช่น android application ที่เราใช้งานในชีวิตประจำวันเช่น facebook youtube และ เกม
 - application สำหรับผู้ใช้งานทั่วไป เช่น โปรแกรมที่ใช้งานโดยคอมพิวเตอร์ส่วนบุคคล เช่น โปรแกรมเอกสาร ต่างๆ
 
-![Java logo](assets/img/James_Gosling_2008.jpeg){:width="50%"}
+![Java logo](assets/img/James_Gosling_2008.jpeg){:width="25%"}
 
 
- 👇 👇 👇 👇 👇 👇 👇 👇 👇 👇 👇 👇 👇 👇 👇 <br>
+ 👇 👇 👇 👇 👇 👇 👇Download Slide 👇 👇 👇 👇 👇 👇 👇 👇 <br>
 
 [slide-p-tech](https://p-tech-th.github.io/java-class.io/assets/img/PTech.pdf)
