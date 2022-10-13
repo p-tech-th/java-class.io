@@ -1,14 +1,8 @@
-
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 title: Week2-challange-1
 layout: default
-has_children: false
 permalink: challenges/week2-challenge-1
-parent: challenges
-
+parent: Challenges
 ---
 
 

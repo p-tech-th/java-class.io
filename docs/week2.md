@@ -21,8 +21,10 @@ public class Main{
     public static void main(String[] args) {
         String myName = "chinnie";
         int number = 12345678;
+        double myPi = 3.14147;
         System.out.println("Your name = " + myName);
         System.out.println("Your number is = " + number);
+        System.out.println("My Pi " + number);
 
     }
 }
