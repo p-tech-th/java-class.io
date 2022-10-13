@@ -8,9 +8,9 @@ nav_order: 2
 has_children: true
 permaklink: week1
 ---
-  เนื้อหาของสัปดาห์ที่1
+  # เนื้อหาของสัปดาห์ที่1
 
-  code สัปดาห์ที่ 1
+  ## code สัปดาห์ที่ 1 hello world
 ```java
 package com;
 
