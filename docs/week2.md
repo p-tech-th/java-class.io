@@ -50,7 +50,6 @@ public class Main{
             System.out.println("Your book book "+ book  + "  length <" + maximumBookLength);
         } else {
             System.out.println("Your book "+ book  +" length >= "+ maximumBookLength);
-s
     }
     }
 }
