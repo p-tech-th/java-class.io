@@ -15,8 +15,7 @@ permaklink: week2
 ```java
 package com;
 
-import java.io.FileWriter;
-import java.io.IOException;
+import java.util.Scanner;
 
 public class Main{
     public static void main(String[] args) {
@@ -34,22 +33,23 @@ public class Main{
 ```java
 package com;
 
-import java.io.FileWriter;
-import java.io.IOException;
+import java.util.Scanner;
 
 public class Main{
     public static void main(String[] args) {
-        System.out.printin("=========== Learn Condition ============= ");
-        System. out.printin("Please type your Book Name");
+
+        System.out.println("=========== Learn Condition ============= ");
+        System. out.println("Please type your Book Name");
         Scanner sc = new Scanner(System.in);
         String book = sc.nextLine();
         int maximumBookLength = 20;
-        System.out.printin("Book Length : " + book.length());
+        System.out.println("Book Length : " + book.length());
         if (book.length()<maximumBookLength)  {
-        System.out.println("Your book book "+ length + "<" + maximumBookLength);
+            System.out.println("Your book book "+ book  + "  length <" + maximumBookLength);
         } else {
-        System.out.println("Your book "+ book +" length >= "+ maximumBookLength);
-        }
+            System.out.println("Your book "+ book  +" length >= "+ maximumBookLength);
+s
+    }
     }
 }
 ```
