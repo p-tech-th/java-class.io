@@ -22,4 +22,4 @@ Java นั้นถูกนำไปใช้ในหลายๆรูปแ
 ![Java logo](assets/img/James_Gosling_2008.jpeg){:width="50%"}
 
 
-[slide-p-tech]:{{ site.url }}/assets/PTech.pdf
+[slide-p-tech]({{ site.url }}/assets/PTech.pdf)
