@@ -5,7 +5,7 @@
 title: Week2
 layout: default
 nav_order: 2
-has_children: true
+has_children: false
 permaklink: week2
 ---
   เนื้อหาของสัปดาห์ที่2
