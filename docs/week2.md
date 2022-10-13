@@ -2,11 +2,11 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: Week1
+title: Week2
 layout: default
 nav_order: 2
 has_children: true
-permaklink: week1
+permaklink: week2
 ---
   เนื้อหาของสัปดาห์ที่2
 
