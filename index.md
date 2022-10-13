@@ -24,4 +24,4 @@ Java นั้นถูกนำไปใช้ในหลายๆรูปแ
 
  👇 👇 👇 👇 👇 👇 👇Download Slide 👇 👇 👇 👇 👇 👇 👇 👇 <br>
 
-[slide-p-tech](https://p-tech-th.github.io/java-class.io/assets/img/PTech.pdf)
+[slide-P-tech](https://p-tech-th.github.io/java-class.io/assets/img/PTech.pdf)
