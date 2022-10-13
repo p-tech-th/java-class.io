@@ -36,6 +36,8 @@ theme: just-the-docs
 defaults:
   - scope:
       path: "assets/img"
+  - scope:
+      path: "assets"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

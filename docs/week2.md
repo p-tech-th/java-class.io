@@ -29,7 +29,7 @@ public class Main{
 }
 ```
 
-## การประกาศเงื่อไข
+## การประกาศเงื่อนไข
 
 ```java
 package com;
