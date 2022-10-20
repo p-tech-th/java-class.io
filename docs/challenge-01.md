@@ -14,3 +14,12 @@ parent: Challenges
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zHU7wpEP7_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<b>เทคนิคที่จะได้ใช้</b>
+
+ตัวอย่างคำแนะนำที่ใช้ในโจทย์ใช้จะมี if(เงื่อนไขแรก){  }else if(เงื่อนไขถัดไป){ }else{   }
+และ method ความสามารถที่ใช้จากตัวแปร Stringเช่น .length()  มีการใช้ Scanner รับค่าจาก keyboard
+
+<b>เคล็ดไม่ลับ</b>
+
+โจทย์ของเราที่ตั้งไว้มีแอบวางยาน้องๆอยู่นิ้ดนึงงง คือพี่ๆลืมสอนเรื่องการที่จะเทียบตัวหนังสือได้ว่ามีค่าเหมือนกันหรือไม่ใช้เครื่องหมาย == เหมือนกับพวก primitive data type ตัวเลขไม่ได้ แต่ต้องใช้ method ของ String คือการใช้ ตัวแปรสตริง.equals(ตัวแปรสตริงอีกตัวที่จะเทียบ)   ถ้าใครใช้ == ไปแล้วจะพบว่ามันไม่ผ่านตลอด เดี่ยวสาเหตุเกี่ยวกับเรื่อง ในสัปดาห์หน้าครับ เรื่องการ new object vs class 
