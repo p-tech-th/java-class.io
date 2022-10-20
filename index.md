@@ -7,6 +7,9 @@ layout: home
 nav_order: 1
 permalink: /
 ---
+👇 👇 👇 👇 👇 👇 👇 <b>Download Slide</b> 👇 👇 👇 👇 👇 👇 👇 👇 <br>
+
+[slide-P-tech](https://p-tech-th.github.io/java-class.io/assets/img/PTech.pdf)
 
 ภาษา Java คืออะไร ภาษา Java เป็นภาษาโปรแกรมภาษาหนึ่งที่มีถูกพัฒนาโดย James Gosling
 
@@ -22,6 +25,3 @@ Java นั้นถูกนำไปใช้ในหลายๆรูปแ
 ![Java logo](assets/img/James_Gosling_2008.jpeg){:width="25%"}
 
 
- 👇 👇 👇 👇 👇 👇 👇Download Slide 👇 👇 👇 👇 👇 👇 👇 👇 <br>
-
-[slide-P-tech](https://p-tech-th.github.io/java-class.io/assets/img/PTech.pdf)
