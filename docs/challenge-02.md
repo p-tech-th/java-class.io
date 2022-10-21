@@ -7,7 +7,7 @@ parent: Challenges
 
 
 ### โจทย์โปรแกรมให้ลองฝึก
-<br>
+
 menu ที่รับคำสั่งจาก keyboard ว่า initialBookList เมื่อพิมพ์คำว่านี้โปรแกรมจะถามให้สร้างจำนวนรายการของหนังสือที่จะสร้างผ่าน keyboard โดยโปรแกรมจะวน loop ให้ป้อนรายการของหนังสือตามจำนวนตัวเลขที่ป้อนผ่าน keyboard เช่นพิมพ์เลข 3 โปรแกรมจะวน loop 3 ครั้ง และในแต่ล่ะครั้งจะให้ใส่ชื่อหนังสือผ่าน keyboard จากนั้นโปรแกรมจะให้ใส่ราคาของหนังสื่อเล่มนั้นผ่าน keyboard อีกครั้ง  โดยเมื่อวน loop ครบตาม list ที่ตั้งค่าไว้แล้วเช่นวน loop ครบ 3 ครั้ง โปรแกรมจะขึ้นแสดงว่าให้พิมพ์คำสั่ง minBookPrice หรือ maxBookPrice ผ่าน keyboard ถ้าพิมพ์ minBookPrice โปรแกรมจะแสดงผล ชื่อหนังสือและราคาของหนังสือเล่มที่ราคาน้อยที่สุดเมื่อเทียบจากทุกเล่มในการออกมา ถ้าป้อน maxBookPrice ระบบจะแสดงชื่อหนังสือและราคาของหนังเล่มที่มีราคาสูงที่สุดออกมา
 
 
@@ -15,7 +15,7 @@ menu ที่รับคำสั่งจาก keyboard ว่า initialBoo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AJuZDKLknFk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### แนวทางการพัฒนา
-</b>
+
 
 ตัวอย่างการทำงาน
 โปรแกรมถามว่า : กรุณาเลือกคำสั่ง checkprice, compare, initialBookList
@@ -32,7 +32,7 @@ menu ที่รับคำสั่งจาก keyboard ว่า initialBoo
 
 
 ### เทคนิคที่จะได้ใช้
-</b>
+
 
 for loop ใช้วน loop ตามจำนวนขนาดรายการหนังสือที่จะป้อน , ตัวแปรทดค่าหา maxBookPrice, maxBookName, minBookPrice, minBookName การตั้งเงื่อนไข if ว่าถ้าหากเล่มปัจจุบันที่แพงที่สุด ณ ตอนนี้ เจอกับเล่มใหม่แล้วปรากฏว่าเล่มใหม่ที่ส่งเข้ามาเทียบแพง/ถูกกว่า ต้องอัพเดทตัวแปร แพง/ถูกกว่า
 
