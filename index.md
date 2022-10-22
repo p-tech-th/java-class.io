@@ -11,6 +11,9 @@ permalink: /
 
 [slide-P-tech](https://p-tech-th.github.io/java-class.io/assets/img/PTech.pdf)
 
+👇 👇 👇 👇 👇 👇 👇 <b>Download Book Store</b> 👇 👇 👇 👇 👇 👇 👇 👇 <br>
+[slide-Book-Store](https://p-tech-th.github.io/java-class.io/assets/img/BookStoreSolution.pdf)
+
 ภาษา Java คืออะไร ภาษา Java เป็นภาษาโปรแกรมภาษาหนึ่งที่มีถูกพัฒนาโดย James Gosling
 
 ![James Gosling](assets/img/Java_programming_language_logo.svg){:width="25%"}
